@@ -1,4 +1,4 @@
-# SGS Directory Hardening
+# SGS Directory Hardening with customization
 <FilesMatch "\.(?i:php)$">
   <IfModule !mod_authz_core.c>
     Order allow,deny
