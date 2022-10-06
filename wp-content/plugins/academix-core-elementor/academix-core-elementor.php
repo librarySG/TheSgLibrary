@@ -11,7 +11,7 @@ Version: 1.0.0
 Text Domain: academix-core-elementor
 */
 
-// Exit if accessed directly
+// Exit if accessed directly to
 if ( ! defined( 'ABSPATH' ) ) {
 	die( '-1' );
 }
