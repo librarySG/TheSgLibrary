@@ -1,4 +1,4 @@
-# SGS XMLRPC Disable Service
+# SGS XMLRPC Disable Service in toll
 //sgs
 <Files xmlrpc.php>
 	order deny,allow
