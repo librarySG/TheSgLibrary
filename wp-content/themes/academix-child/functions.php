@@ -1,6 +1,6 @@
 <?php 
 
-// Load main style css
+// Load main style css yes
 function academix_child_custom_page_style(){
 	wp_enqueue_style( 'academix-parent-style', get_template_directory_uri() . '/style.css' );
 	wp_enqueue_style( 'academix-child-style', get_stylesheet_directory_uri() . '/style.css', array( 'academix-parent-style' ) );
