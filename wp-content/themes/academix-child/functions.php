@@ -166,7 +166,7 @@ function resetFilters($queryArray) : string {
 
 	return "/?" . http_build_query($queryArray);
 }
-//the file for the  functions.
+//the file for the  functions the final.
 function showBoxedItems( $atts ){
 	return '<nav class="navbar navbar-inverse" role="navigation">
     <div class="navbar-header">
